@@ -1,0 +1,80 @@
+playlist: Nashville
+average length: 3.0 minutes and 15.6 seconds
+most popular song(s): ['Southern Nights']
+
+playlist: I Like This...ANOTHER
+average length: 0.0 minutes and 16.2 seconds
+most popular song(s): ['Fire Escape']
+
+playlist: RT To Portland
+average length: 2.0 minutes and 57.6 seconds
+most popular song(s): ['Ella Baila Sola']
+
+playlist: Kim Petras Vibes
+average length: 2.0 minutes and 3.6 seconds
+most popular song(s): ['Who You Gonna Call']
+
+playlist: SOFT OR Mix
+average length: 3.0 minutes and 42.0 seconds
+most popular song(s): ['Love Grows (Where My Rosemary Goes)']
+
+playlist: SPICY OR Mix
+average length: 3.0 minutes and 8.4 seconds
+most popular song(s): ['Level Up']
+
+playlist: POP OR Mix
+average length: 3.0 minutes and 20.4 seconds
+most popular song(s): ['I Need It']
+
+playlist: ROCK OR Mix
+average length: 4.0 minutes and 10.8 seconds
+most popular song(s): ['Smooth (feat. Rob Thomas)']
+
+playlist: 'Auana Hula Time!
+average length: 3.0 minutes and 18.0 seconds
+most popular song(s): ['Lei Ho`oheno']
+
+playlist: Kahiko Hula Time!
+average length: 2.0 minutes and 16.2 seconds
+most popular song(s): ['No Ka Moku Kiakahi Ke Aloha']
+
+playlist: Island Jammzzz
+average length: 3.0 minutes and 36.6 seconds
+most popular song(s): ['Pass The Dutchie']
+
+playlist: Hula Mele I know
+average length: 3.0 minutes and 16.8 seconds
+most popular song(s): ['Pua Mikinolia']
+
+playlist: Quiet Study
+average length: 0.0 minutes and 40.2 seconds
+most popular song(s): ['another.wun']
+
+playlist: Lyricless
+average length: 0.0 minutes and 57.6 seconds
+most popular song(s): ['The Attic']
+
+playlist: NOT Quiet (Techno BLAST)
+average length: 2.0 minutes and 24.0 seconds
+most popular song(s): ['New York Luau']
+
+playlist: Soft Happy Sounds
+average length: 2.0 minutes and 42.6 seconds
+most popular song(s): ['Another Round For Everyone']
+
+playlist: Chilling at home
+average length: 1.0 minutes and 45.0 seconds
+most popular song(s): ['Gimme! Gimme! Gimme!']
+
+playlist: NOT chilling at home
+average length: 3.0 minutes and 13.2 seconds
+most popular song(s): ['Whiplash']
+
+playlist: Just a House Party
+average length: 3.0 minutes and 10.2 seconds
+most popular song(s): ['I Know What I Want']
+
+playlist: Bangers
+average length: 3.0 minutes and 13.8 seconds
+most popular song(s): ['Super Freaky Girl']
+
