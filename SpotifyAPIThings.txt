@@ -1,0 +1,32 @@
+The response will return an access token valid for 1 hour:
+curl -X POST "https://accounts.spotify.com/api/token" \
+     -H "Content-Type: application/x-www-form-urlencoded" \
+     -d "grant_type=client_credentials&client_id=a8fbe860846c4c05ac7acce925209c3a&client_secret=3bd1d0e8d1ab4adb8c3614079d4dc19b"
+
+{
+     "access_token":"BQD5VEMJdxB5d0SvHYZca7gbzjYYt1Pgnmi1mbZl6DnY2nZVZg-2AGyINgQ63yh6G05HF8b3Ch__5E3DjflsHm4HLDuMHcLsIDKNmd2LQTsK7ljMF0cK",
+     "token_type":"Bearer",
+     "expires_in":3600
+}
+
+get artist info using api call
+go to artist page and copy the link to this artis
+curl "https://api.spotify.com/v1/artists/5nCi3BB41mBaMH9gfr6Su0?si=NJgt1GCLQQeF64Wg3gUZuA" \
+     -H "Authorization: Bearer  BQB-f7Kj1YI8ZwncFluIvUsevSBaReIpuJGUgq2-oc-DXuFrOaWftAI9vAHfv__gU89yX5uFJygRqMtvdBk4BWMLSFu9BKILS_z7YO2RH9gENflSAnex"
+
+
+get stuff about a single song
+copy song link
+curl "https://api.spotify.com/v1/tracks/4Nkn6En6TiZQRuTpEDPOYs?si=c054464c8b204fdc" \
+     -H "Authorization: Bearer  BQB-f7Kj1YI8ZwncFluIvUsevSBaReIpuJGUgq2-oc-DXuFrOaWftAI9vAHfv__gU89yX5uFJygRqMtvdBk4BWMLSFu9BKILS_z7YO2RH9gENflSAnex"
+
+
+get info about a users playlists
+get user id by going to profile and copying the link to the profile
+curl --request GET \
+  --url https://api.spotify.com/v1/users/userID/playlists \
+  --header 'Authorization: Bearer undefined...undefined'
+
+curl --request GET \
+    --url https://api.spotify.com/v1/users/316czvcyfahvkhleblryjlnep6ai?si=6e3bcdf0431b4b5d/playlists \
+    -H "Authorization: Bearer  BQB-f7Kj1YI8ZwncFluIvUsevSBaReIpuJGUgq2-oc-DXuFrOaWftAI9vAHfv__gU89yX5uFJygRqMtvdBk4BWMLSFu9BKILS_z7YO2RH9gENflSAnex"

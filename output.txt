@@ -1,0 +1,16 @@
+playlist: Bitter Taste
+average length: 3.0 minutes and 30.6 seconds
+most popular song(s): ['Friendly Neighborhood Poltergeist']
+
+playlist: Milly likes this
+average length: 4.0 minutes and 16.2 seconds
+most popular song(s): ['All The Pretty Girls - RAC Mix']
+
+playlist: Run
+average length: 3.0 minutes and 18.0 seconds
+most popular song(s): ["Emperor's New Clothes"]
+
+playlist: Sea shanties
+average length: 3.0 minutes and 1.2 seconds
+most popular song(s): ['We All Lift Together (From "Warframe")']
+
