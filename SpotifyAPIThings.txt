@@ -4,9 +4,9 @@ curl -X POST "https://accounts.spotify.com/api/token" \
      -d "grant_type=client_credentials&client_id=a8fbe860846c4c05ac7acce925209c3a&client_secret=3bd1d0e8d1ab4adb8c3614079d4dc19b"
 
 {
-     "access_token":"BQD5VEMJdxB5d0SvHYZca7gbzjYYt1Pgnmi1mbZl6DnY2nZVZg-2AGyINgQ63yh6G05HF8b3Ch__5E3DjflsHm4HLDuMHcLsIDKNmd2LQTsK7ljMF0cK",
-     "token_type":"Bearer",
-     "expires_in":3600
+     "access_token":"BQD3Uu457L6pR3pH1HipId5AAKRRqH3d15aEgNoErbWmk24bqseoIpwcD3CebnA_30__PjDeZqdxmc8czvVER7ljuswKjBXkOS0LjRolxYP2xJ2nPwiW",
+     "token_type":"Bearer"
+     ,"expires_in":3600
 }
 
 get artist info using api call
@@ -28,5 +28,5 @@ curl --request GET \
   --header 'Authorization: Bearer undefined...undefined'
 
 curl --request GET \
-    --url https://api.spotify.com/v1/users/316czvcyfahvkhleblryjlnep6ai?si=6e3bcdf0431b4b5d/playlists \
-    -H "Authorization: Bearer  BQB-f7Kj1YI8ZwncFluIvUsevSBaReIpuJGUgq2-oc-DXuFrOaWftAI9vAHfv__gU89yX5uFJygRqMtvdBk4BWMLSFu9BKILS_z7YO2RH9gENflSAnex"
+    --url https://api.spotify.com/v1/users/i9ctc6gi1wzxx6dxhmd8ojdtt/playlists \
+    -H "Authorization: Bearer  BQD3Uu457L6pR3pH1HipId5AAKRRqH3d15aEgNoErbWmk24bqseoIpwcD3CebnA_30__PjDeZqdxmc8czvVER7ljuswKjBXkOS0LjRolxYP2xJ2nPwiW"
