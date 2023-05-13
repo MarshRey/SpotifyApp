@@ -1,6 +1,5 @@
 import requests
 import math
-import os
 from dataclasses import dataclass
 
 @dataclass
@@ -11,9 +10,6 @@ class Information:
 
 # make a text file for output
 output_file = open('output.txt', 'w')
-
-#os.chdir('/Users/Marshall/Desktop/Coding/personal/SpotifyApp')
-print (os.getcwd())
 
 # Client Keys
 CLIENT_ID = 'yourclientid'
