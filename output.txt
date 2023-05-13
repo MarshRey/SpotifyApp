@@ -1,80 +1,220 @@
-playlist: Nashville
-average length: 3.0 minutes and 15.6 seconds
-most popular song(s): ['Southern Nights']
+it means something to be here, right?
+length: 4.0 minutes and 25.3 seconds
+most popular song: ilomilo
 
-playlist: I Like This...ANOTHER
-average length: 0.0 minutes and 16.2 seconds
-most popular song(s): ['Fire Escape']
+For Rick
+length: 4.0 minutes and 21.41 seconds
+most popular song: Everybody Wants To Rule The World
 
-playlist: RT To Portland
-average length: 2.0 minutes and 57.6 seconds
-most popular song(s): ['Ella Baila Sola']
+ROCK OR Mix
+length: 4.0 minutes and 10.93 seconds
+most popular song: Losing My Religion
 
-playlist: Kim Petras Vibes
-average length: 2.0 minutes and 3.6 seconds
-most popular song(s): ['Who You Gonna Call']
+METAL
+length: 4.0 minutes and 9.93 seconds
+most popular song: Pariah
 
-playlist: SOFT OR Mix
-average length: 3.0 minutes and 42.0 seconds
-most popular song(s): ['Love Grows (Where My Rosemary Goes)']
+Show To Dad!
+length: 4.0 minutes and 8.94 seconds
+most popular song: Don't Stop Me Now - Remastered 2011
 
-playlist: SPICY OR Mix
-average length: 3.0 minutes and 8.4 seconds
-most popular song(s): ['Level Up']
+Show To Kyle
+length: 3.0 minutes and 52.01 seconds
+most popular song: Thunderstruck
 
-playlist: POP OR Mix
-average length: 3.0 minutes and 20.4 seconds
-most popular song(s): ['I Need It']
+SOFT OR Mix
+length: 3.0 minutes and 42.11 seconds
+most popular song: ceilings
 
-playlist: ROCK OR Mix
-average length: 4.0 minutes and 10.8 seconds
-most popular song(s): ['Smooth (feat. Rob Thomas)']
+For Kyle
+length: 3.0 minutes and 40.65 seconds
+most popular song: Everybody Wants To Rule The World
 
-playlist: 'Auana Hula Time!
-average length: 3.0 minutes and 18.0 seconds
-most popular song(s): ['Lei Ho`oheno']
+Sad Songs to Make You Sadder Because You're A Masochist Like That
+length: 3.0 minutes and 40.2 seconds
+most popular song: Glimpse of Us
 
-playlist: Kahiko Hula Time!
-average length: 2.0 minutes and 16.2 seconds
-most popular song(s): ['No Ka Moku Kiakahi Ke Aloha']
+Is this romantic?
+length: 3.0 minutes and 39.44 seconds
+most popular song: Say You Won't Let Go
 
-playlist: Island Jammzzz
-average length: 3.0 minutes and 36.6 seconds
-most popular song(s): ['Pass The Dutchie']
+Indigenous Bops
+length: 3.0 minutes and 38.47 seconds
+most popular song: Electric Pow Wow Drum
 
-playlist: Hula Mele I know
-average length: 3.0 minutes and 16.8 seconds
-most popular song(s): ['Pua Mikinolia']
+BONE!!?!!?!
+length: 3.0 minutes and 36.86 seconds
+most popular song: Don't
 
-playlist: Quiet Study
-average length: 0.0 minutes and 40.2 seconds
-most popular song(s): ['another.wun']
+Island Jammzzz
+length: 3.0 minutes and 36.85 seconds
+most popular song: Pass The Dutchie
 
-playlist: Lyricless
-average length: 0.0 minutes and 57.6 seconds
-most popular song(s): ['The Attic']
+Coven of Witches
+length: 3.0 minutes and 35.89 seconds
+most popular song: All The Stars (with SZA)
 
-playlist: NOT Quiet (Techno BLAST)
-average length: 2.0 minutes and 24.0 seconds
-most popular song(s): ['New York Luau']
+Yee Haw
+length: 3.0 minutes and 32.96 seconds
+most popular song: Lost
 
-playlist: Soft Happy Sounds
-average length: 2.0 minutes and 42.6 seconds
-most popular song(s): ['Another Round For Everyone']
+Hey Joe Looky Here
+length: 3.0 minutes and 31.39 seconds
+most popular song: Madness
 
-playlist: Chilling at home
-average length: 1.0 minutes and 45.0 seconds
-most popular song(s): ['Gimme! Gimme! Gimme!']
+Dad’s Version of Holiday Cheer
+length: 3.0 minutes and 30.49 seconds
+most popular song: Fairytale of New York (feat. Kirsty MacColl)
 
-playlist: NOT chilling at home
-average length: 3.0 minutes and 13.2 seconds
-most popular song(s): ['Whiplash']
+Hey Hector Looky Here
+length: 3.0 minutes and 30.33 seconds
+most popular song: That's What I Like
 
-playlist: Just a House Party
-average length: 3.0 minutes and 10.2 seconds
-most popular song(s): ['I Know What I Want']
+Happy and Upbeat Crap
+length: 3.0 minutes and 30.08 seconds
+most popular song: Cake By The Ocean
 
-playlist: Bangers
-average length: 3.0 minutes and 13.8 seconds
-most popular song(s): ['Super Freaky Girl']
+Quiet Study
+length: 3.0 minutes and 28.75 seconds
+most popular song: Say You Won't Let Go
+
+For Mom
+length: 3.0 minutes and 28.74 seconds
+most popular song: When I Was Your Man
+
+jazzercise
+length: 3.0 minutes and 27.69 seconds
+most popular song: Cake By The Ocean
+
+Hey Miriam Look At This
+length: 3.0 minutes and 25.28 seconds
+most popular song: All The Stars (with SZA)
+
+Chem 352 Lab Funk
+length: 3.0 minutes and 24.94 seconds
+most popular song: Your Song
+
+Singing!
+length: 3.0 minutes and 24.8 seconds
+most popular song: Shallow
+
+NOT Quiet (Techno BLAST)
+length: 3.0 minutes and 22.49 seconds
+most popular song: break up with your girlfriend, i'm bored
+
+For Shirley
+length: 3.0 minutes and 22.47 seconds
+most popular song: My Way
+
+Soft Happy Sounds
+length: 3.0 minutes and 21.92 seconds
+most popular song: Say You Won't Let Go
+
+POETRY
+length: 3.0 minutes and 21.52 seconds
+most popular song: Ain't No Sunshine
+
+Hey Rish Looky Here
+length: 3.0 minutes and 21.5 seconds
+most popular song: Players
+
+POP OR Mix
+length: 3.0 minutes and 20.32 seconds
+most popular song: Circles
+
+Work It Gurl
+length: 3.0 minutes and 20.18 seconds
+most popular song: I Was Made For Lovin' You
+
+Hey Erica Looky Here
+length: 3.0 minutes and 19.43 seconds
+most popular song: Numb Little Bug
+
+'Auana Hula Time!
+length: 3.0 minutes and 17.98 seconds
+most popular song: Hawaiian Roller Coaster Ride
+
+Lyricless
+length: 3.0 minutes and 17.11 seconds
+most popular song: The Great Gig in the Sky
+
+Hula Mele I know
+length: 3.0 minutes and 16.55 seconds
+most popular song: He Mele No Lilo
+
+Nashville
+length: 3.0 minutes and 15.86 seconds
+most popular song: As It Was
+
+Chilling at home
+length: 3.0 minutes and 15.04 seconds
+most popular song: Hey, Soul Sister
+
+I Like This...ANOTHER
+length: 3.0 minutes and 14.52 seconds
+most popular song: Ella Baila Sola
+
+Nina's Favorites
+length: 3.0 minutes and 13.84 seconds
+most popular song: thank u, next
+
+Bangers
+length: 3.0 minutes and 13.53 seconds
+most popular song: The Hills
+
+NOT chilling at home
+length: 3.0 minutes and 13.16 seconds
+most popular song: Blinding Lights
+
+Hey Mira Looky Here
+length: 3.0 minutes and 12.42 seconds
+most popular song: If We Ever Broke Up
+
+Dylan I'm your mom and I love you
+length: 3.0 minutes and 12.1 seconds
+most popular song: Kick It
+
+Hey Daphne Looky Here
+length: 3.0 minutes and 11.99 seconds
+most popular song: STAR WALKIN' (League of Legends Worlds Anthem)
+
+Just a House Party
+length: 3.0 minutes and 10.45 seconds
+most popular song: Blinding Lights
+
+SPICY OR Mix
+length: 3.0 minutes and 8.64 seconds
+most popular song: Blinding Lights
+
+Hey Kelli Looky Here
+length: 3.0 minutes and 7.18 seconds
+most popular song: MIDDLE OF THE NIGHT
+
+Christmassy Junk
+length: 3.0 minutes and 6.98 seconds
+most popular song: Haven't Met You Yet
+
+feeling...evil
+length: 3.0 minutes and 3.07 seconds
+most popular song: Unholy (feat. Kim Petras)
+
+Kim Petras Vibes
+length: 3.0 minutes and 0.11 seconds
+most popular song: Unholy (feat. Kim Petras)
+
+Holly’s Crimbo
+length: 2.0 minutes and 59.57 seconds
+most popular song: HOLIDAY
+
+Hey Emily Looky Here
+length: 2.0 minutes and 58.48 seconds
+most popular song: Boy's a liar Pt. 2
+
+RT To Portland
+length: 2.0 minutes and 57.59 seconds
+most popular song: Ella Baila Sola
+
+Kahiko Hula Time!
+length: 2.0 minutes and 16.06 seconds
+most popular song: He Mele Inoa O Kalakaua
 
