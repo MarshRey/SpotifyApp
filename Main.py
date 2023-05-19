@@ -44,8 +44,9 @@ print(current_user_info) # debugging
 #https://open.spotify.com/user/316czvcyfahvkhleblryjlnep6ai?si=1531790de7d44fa0
 #user_ID = '316czvcyfahvkhleblryjlnep6ai' # mine
 #user_ID = 'hreynoldsbae' # holly
-user_ID = 'l9ctc6gi1wzxx6dxhmd8ojdtt' # dalton
+#user_ID = 'l9ctc6gi1wzxx6dxhmd8ojdtt' # dalton
 #user_ID = current_user_info['id']
+user_ID = 'mylesstyles' # milly
 
 # get user playlists
 user_playlists_info = requests.get(BASE_URL + 'users/' + user_ID + '/playlists?offset=0&limit=1', headers=headers).json()
